@@ -1,0 +1,9 @@
+"C:\Program Files\JetBrains\CLion 2019.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\sevati\CLionProjects\IllumRegis
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: mingw
+-- OpenCV STATIC: ON
+-- Found OpenCV 3.4.1 in E:/opencv-3.4.1/build/install/x64/mingw/lib
+-- You might need to add E:/opencv-3.4.1/build/install/x64/mingw/bin to your PATH to be able to run your applications.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="IllumRegis" targetName="IllumRegis" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="802138a0-c368-423a-8826-7cbf90a59b24" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="IllumRegis" />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1Rzbk0tbw7dF5LbNwmxIqPRyTq8" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="IllumRegis" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="IllumRegis" TARGET_NAME="IllumRegis" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="IllumRegis" RUN_TARGET_NAME="IllumRegis">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="802138a0-c368-423a-8826-7cbf90a59b24" name="Default Changelist" comment="" />
+      <created>1570673010390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570673010390</updated>
+      <workItem from="1570673011846" duration="18902000" />
+      <workItem from="1570809465965" duration="1208000" />
+      <workItem from="1570816687503" duration="9000" />
+      <workItem from="1570848088016" duration="552000" />
+      <workItem from="1570857345270" duration="26010000" />
+      <workItem from="1571206069497" duration="33966000" />
+      <workItem from="1571399723752" duration="12917000" />
+      <workItem from="1571799719065" duration="290000" />
+      <workItem from="1572079251620" duration="629000" />
+      <workItem from="1573141699247" duration="1689000" />
+      <workItem from="1573279322487" duration="22049000" />
+      <workItem from="1573546736524" duration="10782000" />
+      <workItem from="1573790302494" duration="1709000" />
+      <workItem from="1573907536350" duration="5829000" />
+      <workItem from="1574049562258" duration="16974000" />
+      <workItem from="1574317380556" duration="850000" />
+      <workItem from="1574358244025" duration="855000" />
+      <workItem from="1574472223516" duration="2855000" />
+      <workItem from="1581735042776" duration="15000" />
+      <workItem from="1589282148532" duration="2391000" />
+      <workItem from="1593691416247" duration="603000" />
+      <workItem from="1593693688340" duration="3000" />
+      <workItem from="1600092149006" duration="170000" />
+      <workItem from="1600092393774" duration="1977000" />
+      <workItem from="1600094573134" duration="325000" />
+      <workItem from="1600094955451" duration="778000" />
+      <workItem from="1614411435783" duration="11889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://E:/opencv-3.4.1/build/install/include/BFC/src.cpp</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="flow.cv::Mat" language="ObjectiveC" />
+        <watch expression="tar_out" />
+        <watch expression="tar_out" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

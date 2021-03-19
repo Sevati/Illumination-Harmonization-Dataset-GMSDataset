@@ -1,0 +1,3 @@
+C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/CMakeFiles/IllumRegis.dir
+C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/CMakeFiles/rebuild_cache.dir

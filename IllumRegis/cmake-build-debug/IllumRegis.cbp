@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="IllumRegis"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\opencv-3.4.1\;CMake Files\opencv-3.4.1\build\;CMake Files\opencv-3.4.1\build\install\;CMake Files\opencv-3.4.1\build\install\x64\;CMake Files\opencv-3.4.1\build\install\x64\mingw\;CMake Files\opencv-3.4.1\build\install\x64\mingw\lib\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IllumRegis">
+				<Option output="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/IllumRegis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/opencv-3.4.1/build/install/include"/>
+					<Add directory="E:/opencv-3.4.1/build/install/include/opencv"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 IllumRegis"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="IllumRegis/fast">
+				<Option output="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/IllumRegis.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/opencv-3.4.1/build/install/include"/>
+					<Add directory="E:/opencv-3.4.1/build/install/include/opencv"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 IllumRegis/fast"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/sevati/CLionProjects/IllumRegis/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/impl.cpp">
+			<Option target="IllumRegis"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/main.cpp">
+			<Option target="IllumRegis"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/opticalflow.cpp">
+			<Option target="IllumRegis"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/opencv-3.4.1/build/install/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\opencv-3.4.1\build\install\"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/opencv-3.4.1/build/install/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\opencv-3.4.1\build\install\"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/opencv-3.4.1/build/install/x64/mingw/lib/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\opencv-3.4.1\build\install\x64\mingw\lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/opencv-3.4.1/build/install/x64/mingw/lib/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\opencv-3.4.1\build\install\x64\mingw\lib\"/>
+		</Unit>
+		<Unit filename="C:/Users/sevati/CLionProjects/IllumRegis/opencv-3.4.1/build/install/x64/mingw/lib/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\opencv-3.4.1\build\install\x64\mingw\lib\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
